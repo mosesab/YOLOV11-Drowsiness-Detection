@@ -104,6 +104,11 @@ pip install ultralytics torch torchvision numpy matplotlib pandas
 
 ---
 
+## Citation
+
+If you use this repository in your research, please cite it using the following DOI link:  
+[DOI Placeholder]()
+
 Feel free to open issues or pull requests if you encounter any problems or have suggestions for improvement.
 
 --- 
