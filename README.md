@@ -1,4 +1,4 @@
-# Drowsy Detection Using YOLO and Python Ultralyitics Library
+# Drowsy Detection with YOLOv11
 
 This repository contains the full implementation of a drowsy detection system, leveraging the YOLO (You Only Look Once) object detection algorithm fine-tuned for the "awake" and "drowsy" datasets. The project uses the Python `ultralytics` library for training and inference.
 
