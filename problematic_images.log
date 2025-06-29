@@ -1,0 +1,12 @@
+Dataset: /workspace/dataset | Mode: DRY-RUN
+--------------------------------------------------
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_212_39554.png: Low variance (9.6) - likely solid color.
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_209_38981.png: Low variance (9.2) - likely solid color.
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_208_36857.png: Low variance (9.0) - likely solid color.
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_211_36659.png: Low variance (9.4) - likely solid color.
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_235_36224.png: Low variance (7.3) - likely solid color.
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_214_31843.png: Low variance (9.9) - likely solid color.
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_206_23528.png: Low variance (8.5) - likely solid color.
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_213_18759.png: Low variance (9.8) - likely solid color.
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_216_12943.png: Low variance (10.0) - likely solid color.
+[PROBLEM] /workspace/dataset/train/Non Drowsy/yashar_207_10969.png: Low variance (8.8) - likely solid color.
