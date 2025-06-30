@@ -27,8 +27,8 @@ ACER	0.21%	Average of APCER and BPCER.
 ### Acknowledgements
 
 This project uses the following datasets from Kaggle:
-Driver Drowsiness Dataset (DDD) by ISMAIL NASRI.
-Drowsy Detection Dataset by YASHAR JEBRAEILY.
+- Driver Drowsiness Dataset (DDD) by ISMAIL NASRI.
+- Drowsy Detection Dataset by YASHAR JEBRAEILY.
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
