@@ -13,10 +13,6 @@ The project covers every stage of the machine learning lifecycle, from automated
 
 ![alt text](https://img.shields.io/badge/Data-Kaggle-blue.svg)
 
-### Project Highlights
-You can test the model in real time here: https://huggingface.co/spaces/mosesb/drowsiness-detection-demo
-
-You can download the model here: https://huggingface.co/mosesb/drowsiness-detection-yolo-cls
 
 ### Quick Summary
 Accuracy	99.80%	Overall correctness on the test set.
