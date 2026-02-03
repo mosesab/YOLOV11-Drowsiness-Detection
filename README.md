@@ -1,4 +1,8 @@
 ### YOLO v11 for Driver Drowsiness Detection
+
+📌 **Notebook moved to Kaggle:**  
+👉 https://www.kaggle.com/code/themosesab/yolov11-for-driver-drowsiness-detection
+
 This repository contains a complete, end-to-end pipeline for training a YOLO v11 classification model to detect driver drowsiness using the ultralytics library.  
 The project covers every stage of the machine learning lifecycle, from automated data acquisition and cleaning to model evaluation and explainability using GradCAM.
 
